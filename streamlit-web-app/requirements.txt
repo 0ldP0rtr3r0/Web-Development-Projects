@@ -1,0 +1,7 @@
+yfinance as yf # stock data
+streamlit as st # web api
+pandas as pd 
+numpy as np
+datetime as dt
+plotly.graph_objects as go
+plotly.subplots import make_subplots
